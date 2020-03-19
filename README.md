@@ -66,13 +66,12 @@ Recalculating the highand low performing schools has also negatively affected Th
   - Pre-correction ranking: 2/15
   - Post correction ranking 8/15
   
-Recalculating ninth grade scores affects the following:
-  - Math and Reding Scores By Grade:
-    - Thomas High School grade 9 reading score: NaN
-    - Thomas High School grade 9 math score: NaN
-  - Scores by School Spending:
-    -Thomas High School falls in the $630-644 spending range which was the only affected range:
-     
+ Math and Reding Scores By Grade:
+  - Thomas High School grade 9 reading score: NaN
+  - Thomas High School grade 9 math score: NaN
+ 
+ Math and Reading Scores by School Spending in $630-$644 Range:
+        
   i. Original Spending Analysis:
       
    |Spending Range|Average Math Score|Average Reading Score|% Passing Math|% Passing Reading|% Overall Passing|
@@ -84,6 +83,11 @@ Recalculating ninth grade scores affects the following:
    |Spending Range|Average Math Score|Average Reading Score|% Passing Math|% Passing Reading|% Overall Passing|
    |-------------:|-----------------:|--------------------:|-------------:|----------------:|----------------:|
    |      $630-644|              78.5|                 81.6|            67|               77|               56|
-  
+
+Scores Based on Spending were affected in the following ways:
+ - Overall percentage of students who passed dropped 7% from 63% to 56%.
+  - Precentage of students who passed reading dropped 7% from 84% to 77%.
+  - Percentage of students who passed math dropped 6% from 73% to 67%.
+  - Average reading and math scores were not significantly impacted.
   
   
