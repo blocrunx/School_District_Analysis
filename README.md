@@ -15,18 +15,32 @@ The math and reading scores of Thomas High School ninth grade have been changed.
   - Scores by School Spending
   - Scores by School Spending
   - Scores by School Type
-  ## Resources
+## Resources
   - Data Source: schools_complete.csv, students_complete.csv
   - Software: Python 3.7.6, Jupyter Notebook 6.0.3
   - Libraries: Pandas, Numpy
-  ## Summary
+## Summary
   The following district summary tables show the impact of the revision:
-  1. Original District Summary:
   
-|otal Schools|Total Students| Total Budget |Average Math Score|Average Reading Score|% Passing Math|% Passing Reading|% Overall Passing|
+  i. Original District Summary:
+  
+|Total Schools|Total Students| Total Budget |Average Math Score|Average Reading Score|% Passing Math|% Passing Reading|% Overall Passing|
 |------------:|--------------|--------------|-----------------:|--------------------:|-------------:|----------------:|---------------:|
 |           15|39,170        |$24,649,428.00|             78.99|                81.88|         74.98|            85.81|           65.17|
+  
+  ii. Modified District Summary:
   
 Total Schools|Total Students| Total Budget |Average Math Score|Average Reading Score|% Passing Math|% Passing Reading|% Overall Passing|
 |------------:|--------------|--------------|-----------------:|--------------------:|-------------:|----------------:|---------------:|
 |           15|39,170        |$24,649,428.00|             78.93|                81.86|         73.88|            84.65|           64.09|
+
+The correction for the academic dishonesty has impacted the district summary in the following ways:
+  - overall passing percentage has dropped 1.10% from 65.17% to 64.09%.
+  - Percentage of students who passed reading dropped 1.16% from 85.81 to 84.65.
+  - Percentage of students who passed math dropped 1.10% from 74.98 to 73.88.
+  - Average reading score dropped by 0.02% from 81.88 to 81.86.
+  - Average math score dropped by 0.06% from 78.99 to 78.93.
+  
+    The following school summary tables show the impact of the revision:
+    
+    
