@@ -90,4 +90,16 @@ Scores Based on Spending were affected in the following ways:
   - Percentage of students who passed math dropped 6% from 73% to 67%.
   - Average reading and math scores were not significantly impacted.
   
-  
+ Scores Based on School Size in the Medium(1000-2000) Range
+ 
+  i. Original Size Analysis for Medium(1000-2000) Range
+    
+   |           Range|Average Math Score|Average Reading Score|% Passing Math|% Passing Reading|% Overall Passing|
+   |---------------:|-----------------:|--------------------:|-------------:|----------------:|----------------:|
+   |Medium(1000-2000|              83.4|                 83.9|            94|               97|               91|
+   
+  ii. Modified Size Analysis for Medium(1000-2000) Range
+   |           Range|Average Math Score|Average Reading Score|% Passing Math|% Passing Reading|% Overall Passing|
+   |---------------:|-----------------:|--------------------:|-------------:|----------------:|----------------:|
+   |Medium(1000-2000|              83.4|                 83.9|            88|               91|               85|
+   
