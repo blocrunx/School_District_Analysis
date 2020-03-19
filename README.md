@@ -61,5 +61,16 @@ The correction for the academic dishonesty has impacted the school summary for T
   - Percentage of students who passed math dropped 26.36% from 93.27% to 66.91%
   - Average reading score increased 0.05% from 83.85% to 83.90% 
   - Average math score dropped by 0.07% from 83.42% to 83.35%
+
+Recalculating the highand low performing schools has also negatively affected Thomas High School's performace relative to other schools:
+  - Pre-correction ranking: 2/15
+  - Post correction ranking 8/15
   
+Recalculating ninth grade scores affects the following:
+  - Math and Reding Scores By Grade:
+    - Thomas High School grade 9 reading score: NaN
+    - Thomas High School grade 9 math score: NaN
+  -Scores by School Spending:
+    - 
+ 
  
