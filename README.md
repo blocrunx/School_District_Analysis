@@ -41,6 +41,17 @@ The correction for the academic dishonesty has impacted the district summary in 
   - Average reading score dropped by 0.02% from 81.88 to 81.86.
   - Average math score dropped by 0.06% from 78.99 to 78.93.
   
-    The following school summary tables show the impact of the revision:
-    
+The following school summary DataFrame snippets show the impact of the revision:
+ 
+  i. Original School Summary(Thomas High School Row)
+ 
+ |School Type|Total Students|Total School Budget|Per Student Budget|Average Math Score|Average Reading Score|% Passing Math|% Passing Reading|% Overall Passing|Spending Ranges (Per Student)|   School Size    |
+|-----------|-------------:|-------------------|------------------|-----------------:|--------------------:|-------------:|----------------:|----------------:|-----------------------------|------------------|
+|Charter    |          1635|$1,043,130.00      |$638.00           |             83.42|                83.85|         93.27|            97.31|            90.95|$630-644                     |Medium (1000-2000)|
+  
+  ii. Modified School Summary(Thomas High School Row)
+  
+  |School Type|Total Students|Total School Budget|Per Student Budget|Average Math Score|Average Reading Score|% Passing Math|% Passing Reading|% Overall Passing|Spending Ranges (Per Student)|   School Size    |
+|-----------|-------------:|-------------------|------------------|-----------------:|--------------------:|-------------:|----------------:|----------------:|-----------------------------|------------------|
+|Charter    |          1635|$1,043,130.00      |$638.00           |             83.35|                83.90|         66.91|            69.66|            65.08|$630-644                     |Medium (1000-2000)|
     
