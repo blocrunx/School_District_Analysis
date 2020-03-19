@@ -54,4 +54,12 @@ The following school summary DataFrame snippets show the impact of the revision:
   |School Type|Total Students|Total School Budget|Per Student Budget|Average Math Score|Average Reading Score|% Passing Math|% Passing Reading|% Overall Passing|Spending Ranges (Per Student)|   School Size    |
 |-----------|-------------:|-------------------|------------------|-----------------:|--------------------:|-------------:|----------------:|----------------:|-----------------------------|------------------|
 |Charter    |          1635|$1,043,130.00      |$638.00           |             83.35|                83.90|         66.91|            69.66|            65.08|$630-644                     |Medium (1000-2000)|
-    
+
+The correction for the academic dishonesty has impacted the school summary for Thomas High School in the following ways:
+  - Overall passing percentage dropped 25.87% from 90.95% to 65.08%
+  - Percentage of students who passed reading dropped 27.65% from 97.31% to 69.66%
+  - Percentage of students who passed math dropped 26.36% from 93.27% to 66.91%
+  - Average reading score increased 0.05% from 83.85% to 83.90% 
+  - Average math score dropped by 0.07% from 83.42% to 83.35%
+  
+ 
