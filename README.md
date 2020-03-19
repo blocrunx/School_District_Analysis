@@ -70,7 +70,14 @@ Recalculating ninth grade scores affects the following:
   - Math and Reding Scores By Grade:
     - Thomas High School grade 9 reading score: NaN
     - Thomas High School grade 9 math score: NaN
-  -Scores by School Spending:
-    - 
+  - Scores by School Spending:
+     
+      
+     |Spending Range|Average Math Score|Average Reading Score|% Passing Math|% Passing Reading|% Overall Passing|
+     |-------------:|-----------------:|--------------------:|-------------:|----------------:|----------------:|
+     |        <$584 |              83.5|                 83.9|            93|               97|               90|
+     |      $585-629|              81.9|                 83.2|            87|               93|               81|
+     |      $630-644|              78.5|                 81.6|            73|               84|               63|
+     |      $645-675|              77.0|                 81.0|            66|               81|               54|
  
  
