@@ -43,13 +43,13 @@ The correction for the academic dishonesty has impacted the district summary in 
   
 The following school summary DataFrame snippets show the impact of the revision:
  
-  i. Original School Summary(Thomas High School Row)
+  i. Original School Summary(Thomas High School Row):
  
  |School Type|Total Students|Total School Budget|Per Student Budget|Average Math Score|Average Reading Score|% Passing Math|% Passing Reading|% Overall Passing|Spending Ranges (Per Student)|   School Size    |
 |-----------|-------------:|-------------------|------------------|-----------------:|--------------------:|-------------:|----------------:|----------------:|-----------------------------|------------------|
 |Charter    |          1635|$1,043,130.00      |$638.00           |             83.42|                83.85|         93.27|            97.31|            90.95|$630-644                     |Medium (1000-2000)|
   
-  ii. Modified School Summary(Thomas High School Row)
+  ii. Modified School Summary(Thomas High School Row):
   
   |School Type|Total Students|Total School Budget|Per Student Budget|Average Math Score|Average Reading Score|% Passing Math|% Passing Reading|% Overall Passing|Spending Ranges (Per Student)|   School Size    |
 |-----------|-------------:|-------------------|------------------|-----------------:|--------------------:|-------------:|----------------:|----------------:|-----------------------------|------------------|
@@ -78,7 +78,7 @@ Recalculating the highand low performing schools has also negatively affected Th
    |-------------:|-----------------:|--------------------:|-------------:|----------------:|----------------:|
    |      $630-644|              78.5|                 81.6|            73|               84|               63|
    
-  ii. Modified Spending Analysis
+  ii. Modified Spending Analysis:
   
    |Spending Range|Average Math Score|Average Reading Score|% Passing Math|% Passing Reading|% Overall Passing|
    |-------------:|-----------------:|--------------------:|-------------:|----------------:|----------------:|
@@ -86,9 +86,9 @@ Recalculating the highand low performing schools has also negatively affected Th
 
 Scores Based on Spending were affected in the following ways:
  - Overall percentage of students who passed dropped 7% from 63% to 56%.
-  - Precentage of students who passed reading dropped 7% from 84% to 77%.
-  - Percentage of students who passed math dropped 6% from 73% to 67%.
-  - Average reading and math scores were not significantly impacted.
+ - Precentage of students who passed reading dropped 7% from 84% to 77%.
+ - Percentage of students who passed math dropped 6% from 73% to 67%.
+ - Average reading and math scores were not significantly impacted.
   
  Scores Based on School Size in the Medium(1000-2000) Range
  
@@ -103,3 +103,26 @@ Scores Based on Spending were affected in the following ways:
    |---------------:|-----------------:|--------------------:|-------------:|----------------:|----------------:|
    |Medium(1000-2000|              83.4|                 83.9|            88|               91|               85|
    
+ Scores for Large(2000-5000) and Small(<1000) schools remained the same while scores for Medium(1000-2000) schools were affected in the following ways:
+  - Overall percentage of students who passed dropped 6% from 91% to 85%.
+  - Precentage of students who passed reading dropped 6% from 97% to 91%.
+  - Percentage of students who passed math dropped 6% from 94% to 88%.
+  - Average reading and math scores were not significantly impacted.
+
+Math and Reading Scores by School Type:
+
+  i. Original Type Analysis:
+  
+   |    Type|Average Math Score|Average Reading Score|% Passing Math|% Passing Reading|% Overall Passing|
+   |-------:|-----------------:|--------------------:|-------------:|----------------:|----------------:|
+   | Charter|              83.5|                 83.9|            94|               97|               90|
+   |District|              77.0|                 81.0|            67|               81|               54|
+   
+  ii. Modified Type Analysis:
+   
+   |    Type|Average Math Score|Average Reading Score|% Passing Math|% Passing Reading|% Overall Passing|
+   |-------:|-----------------:|--------------------:|-------------:|----------------:|----------------:|
+   | Charter|              83.5|                 83.9|            90|               93|               87|
+   |District|              77.0|                 81.0|            67|               81|               54| 
+  
+  
