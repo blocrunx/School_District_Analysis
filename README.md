@@ -103,7 +103,7 @@ Scores Based on Spending were affected in the following ways:
    |---------------:|-----------------:|--------------------:|-------------:|----------------:|----------------:|
    |Medium(1000-2000|              83.4|                 83.9|            88|               91|               85|
    
- Scores for Large(2000-5000) and Small(<1000) schools remained the same while scores for Medium(1000-2000) schools were affected in the following ways:
+Scores for Large(2000-5000) and Small(<1000) schools remained the same while scores for Medium(1000-2000) schools were affected in the following ways:
   - Overall percentage of students who passed dropped 6% from 91% to 85%.
   - Precentage of students who passed reading dropped 6% from 97% to 91%.
   - Percentage of students who passed math dropped 6% from 94% to 88%.
@@ -125,4 +125,9 @@ Math and Reading Scores by School Type:
    | Charter|              83.5|                 83.9|            90|               93|               87|
    |District|              77.0|                 81.0|            67|               81|               54| 
   
-  
+Scores for District Schools were not affected while the scores for Charter Schools were affected in the following ways:
+  - Overall percentage of students who passed dropped 3% from 90% to 87%.
+  - Precentage of students who passed reading dropped 4% from 97% to 93%.
+  - Percentage of students who passed math dropped 4% from 94% to 90%.
+  - Average reading and math scores were not significantly impacted.
+
