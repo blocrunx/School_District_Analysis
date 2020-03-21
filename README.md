@@ -26,21 +26,20 @@ The math and reading scores of Thomas High School ninth grade have been changed.
   
 |Total Schools|Total Students| Total Budget |Average Math Score|Average Reading Score|% Passing Math|% Passing Reading|% Overall Passing|
 |------------:|--------------|--------------|-----------------:|--------------------:|-------------:|----------------:|---------------:|
-|           15|39,170        |$24,649,428.00|             78.99|                81.88|         74.98|            85.81|           65.17|
+|           15|39,170        |$24,649,428.00|             79.0 |                81.9 |         75   |            86   |           65   |
   
   ii. Modified District Summary:
   
 Total Schools|Total Students| Total Budget |Average Math Score|Average Reading Score|% Passing Math|% Passing Reading|% Overall Passing|
 |------------:|--------------|--------------|-----------------:|--------------------:|-------------:|----------------:|---------------:|
-|           15|39,170        |$24,649,428.00|             78.93|                81.86|         73.88|            84.65|           64.09|
+|           15|39,170        |$24,649,428.00|             78.9 |                81.9 |         74   |            85   |           64   |
 
 The correction for the academic dishonesty has impacted the district summary in the following ways:
-  - Overall passing percentage dropped 1.10% from 65.17% to 64.09%.
-  - Percentage of students who passed reading dropped 1.16% from 85.81 to 84.65.
-  - Percentage of students who passed math dropped 1.10% from 74.98 to 73.88.
-  - Average reading score dropped by 0.02% from 81.88 to 81.86.
-  - Average math score dropped by 0.06% from 78.99 to 78.93.
-  
+  - Overall passing percentage dropped 1% from 65% to 64%.
+  - Percentage of students who passed reading dropped 1% from 86 to 85.
+  - Percentage of students who passed math dropped 1% from 75 to 74.
+  - Average reading score was not affected, while average math score dropped 0.1% from 79.0% to 78.9%.
+   
 The following school summary DataFrame snippets show the impact of the revision:
  
   i. Original School Summary (Thomas High School Row):
